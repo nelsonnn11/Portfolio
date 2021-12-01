@@ -1,0 +1,32 @@
+h1 {
+  font-size: 100px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+  display: flex
+}
+h3 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+}
+h4 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+}
+h5 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+}
