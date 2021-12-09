@@ -1,46 +1,72 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
-
-h1 {
-  font-size: 120px;
+.h1 {
+  font-size: 50px;
   font-style: normal;
   font-family: source sans pro ;
+  align-self: center;
   color: #F4FFF8;
-  display: flex;
-  justify-content: center;
 }
-h2 {
+.h2{
   font-size: 30px;
   font-style: normal;
   font-family: source sans pro ;
   color: #F4FFF8;
-  display: flex;
-  justify-content: center;
 }
-h3 {
+.h3 {
   font-size: 30px;
   font-style: normal;
   font-family: source sans pro ;
   color: #F4FFF8;
-  display: flex;
-  justify-content: center;
 }
-h4 {
+.h4 {
   font-size: 30px;
   font-style: normal;
   font-family: source sans pro ;
   color: #F4FFF8;
-  display: flex;
-  justify-content: center;
 }
-h5 {
+.h5 {
   font-size: 30px;
   font-style: normal;
   font-family: source sans pro ;
   color: #F4FFF8;
-  display: flex;
-  justify-content: center;
+}
+.h6 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+}
+h2 a:link{
+  color: #F4FFF8;
+}
+h2 a:hover{
+  color: #8BAAAD;
+}
+h3 a:link{
+  color: #F4FFF8;
+}
+h3 a:hover{
+  color: #8BAAAD;
+}
+h4 a:link{
+  color: #F4FFF8;
+}
+h4 a:hover{
+  color: #8BAAAD;
+}
+h5 a:link{
+  color: #F4FFF8;
+}
+h5 a:hover{
+  color: #8BAAAD;
+}
+h6 a:link{
+  color: #F4FFF8;
+}
+h6 a:hover{
+  color: #8BAAAD;
 }
