@@ -85,6 +85,16 @@ h6 a:visited{
 .p {
   font-size: 20px;
   font-style: normal;
-  font-family: source sans pro ;
+  font-family: source sans pro;
   color: #F4FFF8;
   }
+
+/*education.html*/
+.p2 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: flex-start;
+}
