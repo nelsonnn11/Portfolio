@@ -44,7 +44,17 @@
   flex-direction: column;
   justify-content: space-between;
 }
-h3 a:link{
+.h12 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro ;
+  color: #F4FFF8;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+h2 a:link{
   color: #F4FFF8;
 }
 h3 a:hover{
@@ -82,19 +92,73 @@ h6 a:visited{
 }
 
 /* about.html*/
+.h8 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;
+}
 .p {
-  font-size: 20px;
+  font-size: 30px;
   font-style: normal;
   font-family: source sans pro;
   color: #F4FFF8;
   }
 
 /*education.html*/
+.h9 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;
+}
 .p2 {
-  font-size: 20px;
+  font-size: 30px;
   font-style: normal;
   font-family: source sans pro;
   color: #F4FFF8;
   display: flex;
   justify-content: flex-start;
 }
+
+/*interets.html*/
+.h10 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;
+}
+.p3 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;
+}
+/*work.html*/
+.h11 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;
+}
+.p4 {
+  font-size: 30px;
+  font-style: normal;
+  font-family: source sans pro;
+  color: #F4FFF8;
+  display: flex;
+  justify-content: center;}
+  .h20{
+    display: flex;
+    justify-content: flex-end;
+  }
