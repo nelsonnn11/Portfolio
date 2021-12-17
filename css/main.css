@@ -8,87 +8,13 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.h3 {
-  font-size: 30px;
-  font-style: normal;
-  font-family: source sans pro ;
-  color: #F4FFF8;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.h4 {
-  font-size: 30px;
-  font-style: normal;
-  font-family: source sans pro ;
-  color: #F4FFF8;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.h5 {
-  font-size: 30px;
-  font-style: normal;
-  font-family: source sans pro ;
-  color: #F4FFF8;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.h6 {
-  font-size: 30px;
-  font-style: normal;
-  font-family: source sans pro ;
-  color: #F4FFF8;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
+
 .h12 {
   font-size: 30px;
   font-style: normal;
   font-family: source sans pro ;
   color: #F4FFF8;
-  display: flex;
-  align-items: flex-end;
-  flex-direction: row-reverse;
-  justify-content: space-between;
-}
-h2 a:link{
-  color: #F4FFF8;
-}
-h3 a:hover{
-  color: #8BAAAD;
-}
-h3 a:visited{
-  color: #1C3738;
-}
-h4 a:link{
-  color: #F4FFF8;
-}
-h4 a:hover{
-  color: #8BAAAD;
-}
-h4 a:visited{
-  color: #1C3738;
-}
-h5 a:link{
-  color: #F4FFF8;
-}
-h5 a:hover{
-  color: #8BAAAD;
-}
-h5 a:visited{
-  color: #1C3738;
-}
-h6 a:link{
-  color: #F4FFF8;
-}
-h6 a:hover{
-  color: #8BAAAD;
-}
-h6 a:visited{
-  color: #1C3738;
+  transform: translate(80%,1750%);
 }
 
 /* about.html*/
@@ -157,8 +83,19 @@ h6 a:visited{
   font-family: source sans pro;
   color: #F4FFF8;
   display: flex;
-  justify-content: center;}
-  .h20{
+  justify-content: center;
+}
+
+.h20{
     display: flex;
     justify-content: flex-end;
+  }
+  .h20 a:link{
+    color: #F4FFF8;
+  }
+  .h20 a:hover{
+    color: #8BAAAD;
+  }
+  .h20 a:visited{
+    color: #1C3738;
   }
